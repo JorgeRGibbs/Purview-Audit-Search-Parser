@@ -6,3 +6,5 @@ All you need to do is run the python script and pass the export csv as a paremet
   $ python3 audit_parser.py audit_search_export.csv
 
 Version: 0.1
+
+Todo: need to make the script parse the data recursively.
